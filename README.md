@@ -12,12 +12,13 @@ The two possible approached while addressing this question shall include:
 2. **Logistic Approach** - Where we shall figure of from the home team's pespective whether a game is a Win, Loss or a Draw (W, L, D)
 
 NOTE:
-A more detailed explanation and history of the rankings is available [here]: https://en.wikipedia.org/wiki/FIFA_World_Rankings
-An explanation of the ranking procedure is available [here]: https://www.fifa.com/fifa-world-ranking/procedure/men
+A more detailed explanation and history of the rankings is available here: https://en.wikipedia.org/wiki/FIFA_World_Rankings
+
+An explanation of the ranking procedure is available here: https://www.fifa.com/fifa-world-ranking/procedure/men
 
 ## Dataset Columns
 
-Some features are available on the FIFA ranking page [here]: https://www.fifa.com/fifa-world-ranking/ranking-table/men/
+Some features are available on the FIFA ranking page here: https://www.fifa.com/fifa-world-ranking/ranking-table/men/
 
 - Rank
 - Country Abbreviation
