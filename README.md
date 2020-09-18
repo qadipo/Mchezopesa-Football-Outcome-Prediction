@@ -19,17 +19,17 @@ Some features are available on the FIFA ranking page [Link (Links to an external
 # Assessment Expectation
 
 In order to work on the above problem, you need to do the following: 
-            1. Define the question, the metric for success, the context, experimental design taken and the appropriateness of the available data to answer the given question
-            2. Expected flow for the assessment:
-                * Perform your EDA
-                * Perform any necessary feature engineering 
-                * Check of multicollinearity
-                * Start building the model
-                * Cross-validate the model
-                * Compute RMSE
-                * Create residual plots for your models, and assess their heteroscedasticity using Bartlett’s test
-            3. Perform appropriate regressions on the data including your justification
-            4. Challenge your solution by providing insights on how you can make improvements.
+1. Define the question, the metric for success, the context, experimental design taken and the appropriateness of the available data to answer the given question
+2. Expected flow for the assessment:
+            - Perform your EDA
+            - Perform any necessary feature engineering 
+            - Check of multicollinearity
+            - Start building the model
+            - Cross-validate the model
+            - Compute RMSE
+            - Create residual plots for your models, and assess their heteroscedasticity using Bartlett’s test
+3. Perform appropriate regressions on the data including your justification
+4. Challenge your solution by providing insights on how you can make improvements.
 
 ## Datasets
 The data set used for this project has been included in the files uploaded
