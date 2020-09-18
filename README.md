@@ -18,8 +18,7 @@ Some features are available on the FIFA ranking page [Link (Links to an external
 
 # Assessment Expectation
 
-In order to work on the above problem, you need to do the following:
-
+In order to work on the above problem, you need to do the following: 
             1. Define the question, the metric for success, the context, experimental design taken and the appropriateness of the available data to answer the given question
             2. Expected flow for the assessment:
                 * Perform your EDA
