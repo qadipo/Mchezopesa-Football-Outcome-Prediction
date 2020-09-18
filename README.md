@@ -12,10 +12,35 @@ The two possible approached while addressing this question shall include:
 2. **Logistic Approach** - Where we shall figure of from the home team's pespective whether a game is a Win, Loss or a Draw (W, L, D)
 
 NOTE:
-A more detailed explanation and history of the rankings is available here: [Link (https://en.wikipedia.org/wiki/FIFA_World_Rankings)] 
-An explanation of the ranking procedure is available here: [Link (https://www.fifa.com/fifa-world-ranking/procedure/men)]
+A more detailed explanation and history of the rankings is available [here]: https://en.wikipedia.org/wiki/FIFA_World_Rankings
+An explanation of the ranking procedure is available [here]: https://www.fifa.com/fifa-world-ranking/procedure/men
 
-Some features are available on the FIFA ranking page [Link (https://www.fifa.com/fifa-world-ranking/ranking-table/men/.)].
+## Dataset Columns
+
+Some features are available on the FIFA ranking page [here]: https://www.fifa.com/fifa-world-ranking/ranking-table/men/
+
+- Rank
+- Country Abbreviation
+- Total Points
+- Previous Points
+- Rank Change
+- Average Previous Years Points
+- Average Previous Years Points Weighted (50%)
+- Average 2 Years Ago Points
+- Average 2 Years Ago Points Weighted (30%)
+- Average 3 Years Ago Points
+- Average 3 Years Ago Points Weighted (20%)
+- Confederation
+- Date - date of the match
+- Home_team - the name of the home team
+- Away_team - the name of the away team
+- Home_score - full-time home team score including extra time, not including penalty-shootouts
+- Away_score - full-time away team score including extra time, not including penalty-shootouts
+- Tournament - the name of the tournament
+- City - the name of the city/town/administrative unit where the match was played
+- Country - the name of the country where the match was played
+- Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
+
 
 # Assessment Expectation
 
